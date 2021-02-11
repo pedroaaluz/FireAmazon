@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "FireAmazon",
+    "slug": "FireAmazon",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#d59563"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#d59563"
+      },
+      "package": "com.peldror123.FireAmazon"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
