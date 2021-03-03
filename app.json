@@ -24,7 +24,12 @@
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#d59563"
       },
-      "package": "com.peldror123.FireAmazon"
+      "package": "com.pedroii123.FireAmazon",
+      "config": {
+        "googleMaps": {
+          "apiKey": "AIzaSyDiL2ChmsQ9rSqTDuWK8Od6kd09xGn82BU"
+        }
+      }
     },
     "web": {
       "favicon": "./assets/favicon.png"
